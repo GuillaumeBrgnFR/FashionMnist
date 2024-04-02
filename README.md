@@ -4,6 +4,9 @@
 This project aims to apply and compare various neural network algorithms for images recognition on the Fashion MNIST dataset. It's a project to improve my skills with Tensorflow and Python. Utilizing TensorFlow, a machine learning and neural networks library, this project strives to accurately identify different types of fashion items in the Fashion MNIST dataset.
 
 
+## Requirement
+You need Python 3.9 (developped with Python 3.9.13) and pip 24.0.
+
 ## Installation
 Clone this repository to your local machine using:
 ```bash
